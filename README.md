@@ -4,5 +4,5 @@ REST api built on Node.js for calling Correios (Brazilian Federal enterprise res
 
 ## Correios webservices
 
-http://webservice.correios.com.br/service/rastro/Rastro.wsdl
-http://ws.correios.com.br/calculador/CalcPrecoPrazo.asmx
+* http://webservice.correios.com.br/service/rastro/Rastro.wsdl
+* http://ws.correios.com.br/calculador/CalcPrecoPrazo.asmx

@@ -1,0 +1,30 @@
+{
+  "name": "correios-api-express",
+  "version": "1.0.0",
+  "description": "api for tracking packages from Correios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuinaCosta/correios-api-express.git"
+  },
+  "keywords": [
+    "correios;",
+    "express;",
+    "nodejs;",
+    "npm;",
+    "soap"
+  ],
+  "author": "guinacosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuinaCosta/correios-api-express/issues"
+  },
+  "homepage": "https://github.com/GuinaCosta/correios-api-express#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "soap": "^0.23.0"
+  }
+}
